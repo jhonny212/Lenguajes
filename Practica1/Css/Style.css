@@ -1,0 +1,61 @@
+
+img{
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background: black;
+    
+    
+}
+.header{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#030468+12,3f20c9+50,14405b+81,1b6366+100 */
+background: #030468; /* Old browsers */
+background: -moz-linear-gradient(top,  #030468 12%, #3f20c9 50%, #14405b 81%, #1b6366 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #030468 12%,#3f20c9 50%,#14405b 81%,#1b6366 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #030468 12%,#3f20c9 50%,#14405b 81%,#1b6366 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#030468', endColorstr='#1b6366',GradientType=0 ); /* IE6-9 */
+margin: auto;
+
+}
+body{
+   background: #3F3D3D;
+}
+
+#textbox, button{
+   
+    width: 20%;
+  
+    margin: auto;
+    display: block;
+    
+}
+#buton{
+    margin-left: 42%;
+    padding: 1%;
+    width: 30%;
+   border-radius: 50%;
+    display: block;
+}
+.Seccion{
+    width: 50%;
+   
+    display: block;
+    margin: auto;
+}
+td{
+    border: white solid;
+    background: white;
+   
+   
+}
+th{
+    background: black;
+    color: white;
+    border-radius: 100%;
+    
+}
+table, td{
+    margin: auto;
+}
